@@ -1,0 +1,10 @@
+
+The diameter of G6 (i.e. the maximum distance between two vertices) is: 2
+
+The diameter of G7 (i.e. the maximum distance between two vertices) is: 40
+
+The diameter of G8 (i.e. the maximum distance between two vertices) is: 1
+
+The diameter of G9 (i.e. the maximum distance between two vertices) is: 2
+
+The diameter of G10 (i.e. the maximum distance between two vertices) is: 49

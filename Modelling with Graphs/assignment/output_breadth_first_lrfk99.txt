@@ -1,0 +1,14 @@
+Graph G6:
+The distance between vertices 12 and 40 is: 2
+
+Graph G7:
+The distance between vertices 5 and 36 is: 16
+
+Graph G8:
+The distance between vertices 15 and 35 is: 1
+
+Graph G9:
+The distance between vertices 1 and 19 is: 1
+
+Graph G10:
+The distance between vertices 6 and 30 is: 24
